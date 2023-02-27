@@ -1,13 +1,13 @@
 
-<h3 align="left"> Hello! </h3>
+<h3 align="left"> Hi, I'm Kent! </h3>
+
+
+- 💬 Ask me about **C#**
+
 
 <!---[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kntjsprr&repo=Minimal-Proton)](https://github.com/kntjsprr/Minimal-Proton)--> 
 <!--- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)--> 
 ![Snake animation](https://github.com/kntjsprr/kntjsprr/blob/output/github-contribution-grid-snake.svg)
-
-
-
-- 💬 Ask me about **C#**
 
 
 <h3 align="left">Connect with me:</h3>
