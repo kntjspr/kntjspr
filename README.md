@@ -14,7 +14,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/knt_jspr" target="blank"><img src="https://img.shields.io/twitter/follow/knt_jspr?logo=twitter&style=for-the-badge" alt="knt_jspr" /></a> </p>
-<a href="https://app.daily.dev/kntjspr"><img src="https://api.daily.dev/devcards/9e802270e48547bda4aec90949831167.png?r=zh5" width="400" alt="Kent Jasper Cabunoc Sisi's Dev Card"/></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kntjsprr&label=Profile%20views&color=0e75b6&style=flat" alt="kntjsprr" /> </p>
 
 
