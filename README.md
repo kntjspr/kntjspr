@@ -1,8 +1,4 @@
-
 <h3 align="left"> Hi, I'm Kent! </h3>
-
-
-- 💬 Ask me about **C#**
 
 
 <!---[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kntjsprr&repo=Minimal-Proton)](https://github.com/kntjsprr/Minimal-Proton)--> 
