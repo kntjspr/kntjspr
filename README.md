@@ -7,7 +7,7 @@
 
 ![kntjspr's GitHub | Stats](https://stats.quine.sh/kntjspr/github?theme=dark)
 
-[![kntjspr's GitHub | Languages Over Time](https://stats.quine.sh/kntjspr/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kntjspr)
+![kntjspr's GitHub | Languages Over Time](https://stats.quine.sh/kntjspr/languages-over-time?theme=dark)
 ![kntjspr's GitHub | Topics Over Time](https://stats.quine.sh/kntjspr/topics-over-time?theme=dark)
 
 
