@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kntjsprr&label=Profile%20views&color=0e75b6&style=flat" alt="kntjsprr" /> </p>
 
 ![kntjspr's GitHub | Stats](https://stats.quine.sh/kntjspr/github?theme=dark)
-
 ![kntjspr's GitHub | Languages Over Time](https://stats.quine.sh/kntjspr/languages-over-time?theme=dark)
 ![kntjspr's GitHub | Topics Over Time](https://stats.quine.sh/kntjspr/topics-over-time?theme=dark)
 
