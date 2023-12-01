@@ -7,7 +7,6 @@
 
 
 ![kntjspr's GitHub | Stats](https://stats.quine.sh/kntjspr/github?theme=dark) 
-
 <img src="https://stats.quine.sh/kntjspr/languages-over-time?theme=dark" width="500" height="500" />  <img src="https://stats.quine.sh/kntjspr/topics-over-time?theme=dark" width="500" height="500" />
 <!--![kntjspr's GitHub | Languages Over Time](https://stats.quine.sh/kntjspr/languages-over-time?theme=dark)
 ![kntjspr's GitHub | Topics Over Time](https://stats.quine.sh/kntjspr/topics-over-time?theme=dark)-->
