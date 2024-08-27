@@ -1,4 +1,3 @@
-# https://github.com/lowlighter/metrics
 name: Metrics
 on:
   # Schedule hourly updates
