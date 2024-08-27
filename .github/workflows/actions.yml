@@ -23,7 +23,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Manila
-          repositories_skipped: Weight-Calculator, kntjspr.github.io
+          repositories_skipped: Weight-Calculator, kntjspr.github.io, obsidian-notes
 
           plugin_traffic: yes
           plugin_gists: yes
