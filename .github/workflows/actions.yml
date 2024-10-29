@@ -48,7 +48,7 @@ jobs:
           base: ""
           commits_authoring: kntjspr, 2081367@g.cu.edu.ph, 65537922+kntjspr@users.noreply.github.com
           plugin_languages: yes
-          plugin_languages_skipped: kntjspr
+          plugin_languages_skipped: kntjspr, Cheese-N-Bites
           plugin_languages_limit: 24
           plugin_languages_threshold: 0%
           plugin_languages_colors: github
