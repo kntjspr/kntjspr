@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fdciabdul/Frida-Multiple-Bypass</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Frida Multiple Bypass (SSL Pinning + Root Detection + Emulator Detection + Frida Detection + Flutter tls)</div>
@@ -70,7 +70,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MiddleSchoolStudent/BotBrowser</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BotBrowser modifies Chromium's native C++ core to emulate a real browser, bypassing advanced antibot systems like Shape, Cloudflare, DataDome, Akamai, Kasada, and similar CAPTCHA defenses.</div>
@@ -123,7 +123,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Ms-dev3/EmulatorDetectionByPass</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Test case to check for emulator detection bypass using frida and termux in android and how your application reacts to js injection.</div>
