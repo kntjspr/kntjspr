@@ -73,7 +73,7 @@
                                         <span>starred 21 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">BotBrowser modifies Chromium's C++ core to emulate a real browser, bypassing antibot systems like Cloudflare, F5 Shape, PerimeterX, Akamai, Kasada, and reCAPTCHA with unmatched stealth and reliability.</div>
+                                <div class="field description">BotBrowser modifies Chromium's C++ kernel to emulate a real browser, bypassing Cloudflare, F5 Shape, PerimeterX, Akamai, Kasada, and reCAPTCHA with unmatched stealth and reliability.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
