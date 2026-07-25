@@ -26,7 +26,7 @@
                                         <span>starred 1 day ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0</div>
+                                <div class="field description">RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
